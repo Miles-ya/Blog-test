@@ -2,7 +2,7 @@
 category: 测试
 createdAt: ''
 date: '2026-03-20'
-draft: true
+draft: false
 tags:
   - 测试
 title: 测试文件

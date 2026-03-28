@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ea25670d010a0322",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c055cad4e5a9b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b247a4e07312de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2025-09-23 关于知道和做到的想法/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25fa8c5b9a3d59cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "92939bd876dbe777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28fd14005787da69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9cb6a1b715e88b1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "!",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8ed03cd803b94946",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "3015c2ab6ed6bb90",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ceac840be6763a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ffc4e9487f3c34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "a6dc51a42e3fea51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "09a823abeb02b5d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "42eefcc79729d404",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "9cb6a1b715e88b1f",
+  "lastOpenFiles": [
+    "content/posts/蓝桥赛前小记 往期视频总结/index.md",
+    "themes/hello-friend-ng/CHANGELOG.md",
+    "content/posts/ubuntu 24 Ibus输入法导入dict词库教程/index.md",
+    "public/posts/2025/11/ubuntu-24-ibus输入法导入dict词库教程/2.png",
+    "public/posts/2025/11/ubuntu-24-ibus输入法导入dict词库教程/1.png",
+    "content/posts/周报（10.27 – 11.02）/index.md",
+    "public/posts/2025/11/周报10.27-11.02/3.png",
+    "public/posts/2025/11/周报10.27-11.02/2.png",
+    "public/posts/2025/11/周报10.27-11.02/活动占比.png",
+    "public/posts/2025/11/周报10.27-11.02/Pasted image 20251104200136.png",
+    "public/posts/2025/11/周报10.27-11.02/1.png",
+    "content/posts/周报（10.06 – 10.12）/index.md",
+    "content/posts/周报（09.15 – 09.21）/index.md",
+    "content/posts/周报（09.08 – 09.14）/index.md",
+    "content/posts/双系统/index.md",
+    "content/posts/周报（09.08 – 09.14）/1.png",
+    "content/posts/周报（10.06 – 10.12）/1.png",
+    "content/posts/周报（09.15 – 09.21）/1.png",
+    "content/posts/2025-10-17 一个特别的梦/index.md",
+    "content/posts/2025-08-26 梦/index.md",
+    "public/posts/周报（10.27 – 11.02）",
+    "public/posts/周报（10.06 – 10.12）",
+    "public/posts/周报（09.15 – 09.21）",
+    "public/posts/周报（09.08 – 09.14）",
+    "public/posts/双系统",
+    "public/posts/ubuntu 24 Ibus输入法导入dict词库教程",
+    "public/posts/2025-09-23 关于知道和做到的想法",
+    "content/posts/2024年度报告/index.md",
+    "content/posts/2025-09-28 随便写写/index.md",
+    "content/posts/周报（10.06 – 10.12）.md",
+    "content/posts/2025-11-02 对于旅游的一点想法.md",
+    "content/posts/2025-09-23 关于知道和做到的想法.md",
+    "content/posts/《如何阅读一本书》摘要.md",
+    "themes/hello-friend-ng/archetypes/posts.md",
+    "未命名.base",
+    "themes/hello-friend-ng/exampleSite/content/posts/goisforlovers.fr.md",
+    "themes/hello-friend-ng/exampleSite/content/posts/goisforlovers.md",
+    "archetypes/default.md",
+    "themes/hello-friend-ng/archetypes/default.md",
+    "content/posts/《活出生命的意义》书摘.md",
+    "content/posts/2024忆青春.md",
+    "content/posts/2025 Q2 季度报告.md",
+    "content/posts/2025-08-20情绪及吐槽.md",
+    "content/posts/2025-08-26 梦.md"
+  ]
+}
